@@ -26,7 +26,7 @@
 
 ## 使用方法
 
-1. 将从 Yolov5 导出的 FP32 格式的输入 ONNX 文件放到 `models` 文件夹下。
+1. 将从 Yolov5 导出的 FP32 格式的输入 ONNX 文件放到 `models` 文件夹下。(用yolov5官方的pt文件+export.py来导出就行了，官方的onnx文件是FP16的不要用那个)
 2. 在 `tensorrt-cpp-api-main` 文件夹下使用以下命令构建项目：
 
     ```bash

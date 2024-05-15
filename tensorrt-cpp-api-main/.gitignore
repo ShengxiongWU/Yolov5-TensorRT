@@ -39,4 +39,5 @@ cmake-build-*
 scripts/
 !scripts/build_opencv.sh
 *.onnx
+outputs/
 

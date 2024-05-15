@@ -1,0 +1,49 @@
+2024-05-12 04:35:34.755 [info] Started local extension host with pid 19375.
+2024-05-12 04:35:34.873 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.873 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.873 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.873 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.873 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.874 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.874 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.874 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.874 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.874 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.875 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.875 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:34.919 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-12 04:35:37.393 [info] [perf] Render performance baseline is 14ms
+2024-05-12 04:35:42.872 [info] Started local extension host with pid 19458.
+2024-05-12 04:35:42.911 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-12 04:35:45.425 [info] [perf] Render performance baseline is 17ms
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.994 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.995 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.995 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:45.995 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-12 04:35:46.466 [error] Method not found: toJSON: CodeExpectedError: Method not found: toJSON
+    at Object.call (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:44:5178)
+    at P.s (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:42:5115)
+    at P.q (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:42:4633)
+    at g.value (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:42:4042)
+    at a.y (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:670)
+    at a.z (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:742)
+    at a.fire (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:958)
+    at g.value (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:28254)
+    at a.y (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:670)
+    at a.fire (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:889)
+    at g.value (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:28457)
+    at a.y (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:670)
+    at a.fire (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:37:889)
+    at Ee (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:30891)
+    at IpcMainImpl.c (/snap/code/159/usr/share/code/resources/app/out/vs/code/electron-main/main.js:44:18990)
+    at IpcMainImpl.emit (node:events:517:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:77585)
+    at WebContents.emit (node:events:517:28)

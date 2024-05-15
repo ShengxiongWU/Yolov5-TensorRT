@@ -1,0 +1,4 @@
+[proc] 执行命令: cmake --version
+[proc] 执行命令: cmake -E capabilities
+[variant] 已加载一组新变量
+[kit] 已成功从 /root/.local/share/CMakeTools/cmake-tools-kits.json 加载 3 工具包

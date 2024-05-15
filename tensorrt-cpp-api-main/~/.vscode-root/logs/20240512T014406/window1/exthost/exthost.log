@@ -1,0 +1,31 @@
+2024-05-12 01:44:07.602 [info] Extension host with pid 11015 started
+2024-05-12 01:44:07.624 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-12 01:44:07.637 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-12 01:44:07.673 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-12 01:44:07.725 [info] Eager extensions activated
+2024-05-12 01:44:07.737 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-12 01:44:07.739 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-12 04:31:43.035 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-12 04:31:43.041 [info] Extension host with pid 11015 exiting with code 0
+2024-05-12 04:31:43.709 [info] Extension host with pid 18422 started
+2024-05-12 04:31:43.709 [info] Skipping acquiring lock for /usr/local/tensorrt-cpp-api-main/~/.vscode-root/User/workspaceStorage/c990a42628b2232c52fcb425ebd36fd8.
+2024-05-12 04:31:43.730 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-05-12 04:31:43.733 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-12 04:31:43.743 [info] Eager extensions activated
+2024-05-12 04:31:43.745 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-12 04:31:43.746 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-12 04:31:46.245 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-05-12 04:31:55.962 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-05-12 04:32:03.414 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-12 04:32:09.797 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-05-12 04:32:14.691 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2024-05-12 04:32:14.845 [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: false, activationEvent: 'workspaceContains:CMakeLists.txt'
+2024-05-12 04:32:24.050 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-12 04:32:24.082 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-12 04:33:24.816 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-12 04:33:26.834 [error] Error: Stopping the server timed out
+	at /root/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:70428:23
+	at async Object.deactivate (/root/.vscode/extensions/ms-vscode.cpptools-1.20.5-linux-x64/dist/src/main.js:98779:5)
+	at async Promise.all (index 11)
+	at async f.$ (/snap/code/159/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7839)
+2024-05-12 04:33:26.834 [info] Extension host with pid 18422 exiting with code 0

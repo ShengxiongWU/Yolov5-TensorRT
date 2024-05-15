@@ -36,6 +36,7 @@ build*/
 cmake-build-*
 .idea/
 .vscode/
-
+scripts/
+!scripts/build_opencv.sh
 *.onnx
 

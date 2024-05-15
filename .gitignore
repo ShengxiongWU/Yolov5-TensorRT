@@ -1,5 +1,5 @@
-tensorrt-cpp-api-main/scripts/
+/tensorrt-cpp-api-main/scripts/
 
-!tensorrt-cpp-api-main/scripts/build_opencv.sh
+!/tensorrt-cpp-api-main/scripts/build_opencv.sh
 
-tensorrt-cpp-api-main/val2017
+/tensorrt-cpp-api-main/val2017
